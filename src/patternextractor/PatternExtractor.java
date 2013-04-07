@@ -4,6 +4,8 @@
  */
 package patternextractor;
 
+import edu.uci.ics.jung.samples.BalloonLayoutDemo;
+import edu.uci.ics.jung.samples.ClusteringDemo;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.*;
